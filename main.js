@@ -1,3 +1,1 @@
-function add(numA, numB) {
-    return numA+numB
-}
+console.log("is this main?")
